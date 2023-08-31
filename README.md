@@ -2,7 +2,7 @@
 # Hello, I'm Deniz Can Altun 👋
 
 Welcome to my GitHub profile! I'm passionate about software development and technology. Feel free to explore my repositories and projects. Connect with me on 
-[LinkedIn] (https://linkedin.com/in/denizcca),
+[Linkedin] (https://linkedin.com/in/denizcca),
 [gmail] denizcanaltun0@gmail.com.
 [npm] https://www.npmjs.com/~denizcca
 
@@ -32,8 +32,8 @@ I also have experience in React Native, allowing me to build cross-platform mobi
 
 ## Connect with Me
 
-- LinkedIn: [linkedin.com/in/denizcca](https://linkedin.com/in/denizcca)
-- Email: [denizcanaltun0@gmail.com](mailto:denizcanaltun0@gmail.com)
+- [Linkedin] [linkedin.com/in/denizcca](https://linkedin.com/in/denizcca)
+- [gmail] [denizcanaltun0@gmail.com](mailto:denizcanaltun0@gmail.com)
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to have a chat. I'm always excited to connect with fellow developers and tech enthusiasts!
 
