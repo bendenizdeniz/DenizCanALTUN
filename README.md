@@ -4,6 +4,7 @@
 Welcome to my GitHub profile! I'm passionate about software development and technology. Feel free to explore my repositories and projects. Connect with me on 
 [LinkedIn] (https://linkedin.com/in/denizcca),
 [gmail] denizcanaltun0@gmail.com.
+[npm] https://www.npmjs.com/~denizcca
 
 ## About Me
 
