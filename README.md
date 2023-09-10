@@ -1,13 +1,13 @@
-# Merhaba, Ben Deniz Can Altun 👋
+# Hello, I'm Deniz Can Altun 👋
 
-GitHub profilime hoş geldiniz! Yazılım geliştirme ve teknoloji konusunda tutkulu biriyim. Repository'lerimi ve projelerimi keşfetmekten çekinmeyin. Benimle iletişime geçebilirsiniz:
+Welcome to my GitHub profile! I'm passionate about software development and technology. Feel free to explore my repositories and projects. You can reach out to me through:
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/denizcca/)
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:denizcanaltun0@gmail.com)
 
-## Hakkımda
+## About Me
 
-Web geliştirme, frontend programlama ve daha fazlasında güçlü bir temele sahip yazılım tutkunu biriyim. Ana odak alanlarım şunları içerir:
+I'm a software enthusiast with a strong foundation in web development, frontend programming, and more. My main areas of focus include:
 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%2320232a"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -29,25 +29,29 @@ Web geliştirme, frontend programlama ve daha fazlasında güçlü bir temele sa
 
 ### JavaScript (JS)
 
-Modern webi güçlendiren JavaScript dili ile çalışma deneyimim bulunmaktadır. React ve Vue.js gibi popüler kütüphaneler ve çerçeveler kullanarak etkileşimli ve dinamik web uygulamaları oluşturmayı seviyorum.
+I have experience working with JavaScript, the language that powers the modern web. I enjoy creating interactive and dynamic web applications using popular libraries and frameworks like React and Vue.js.
 
 ### TypeScript (TS)
 
-TypeScript, JavaScript'e güçlü bir tip sistemi getirerek kod kalitesini ve bakım kolaylığını artırır. TypeScript konusunda deneyimliyim ve sağlam ve ölçeklenebilir uygulamalar oluşturmak için bu özelliklerden yararlanıyorum.
+TypeScript brings strong typing to JavaScript, enhancing code quality and maintainability. I'm proficient in TypeScript and leverage its features to build robust and scalable applications.
 
 ### ReactJS
 
-React, kullanıcı arayüzleri oluşturmak için güçlü bir JavaScript kütüphanesine odaklanmış durumdayım. React kullanarak çeşitli web uygulamaları geliştirdim ve sorunsuz ve etkileyici kullanıcı deneyimleri oluşturdum.
+I specialize in React, a powerful JavaScript library for building user interfaces. I've developed various web applications using React, creating seamless and engaging user experiences.
 
 ### React Native
 
-Aynı kod tabanıyla hem iOS hem de Android platformları için etkili ve duyarlı mobil uygulamalar oluşturmamı sağlayan React Native konusunda da deneyimim var.
+I also have experience in React Native, allowing me to build cross-platform mobile applications with the same codebase. This enables me to deliver efficient and responsive mobile apps for both iOS and Android platforms.
 
 ### .Net Core/MVC
 
-.NET, webden masaüstüne kadar çeşitli türde uygulamalar oluşturmak için güçlü bir çerçeve sunar. Gerçek dünya iş gereksinimlerini karşılayan verimli ve güvenilir çözümler oluşturmak için .NET ile çalıştım.
+.NET provides a powerful framework for building various types of applications, from web to desktop and beyond. I've worked with .NET to create efficient and reliable solutions that meet real-world business needs.
 
-## Benimle İletişime Geçin
+## Connect with Me
 
 - [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/denizcca/)
-- [<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](
+- [<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:denizcanaltun0@gmail.com)
+
+Feel free to reach out if you have any questions, collaboration ideas, or just want to have a chat. I'm always excited to connect with fellow developers and tech enthusiasts!
+
+Let's code and innovate together! 💻🚀
