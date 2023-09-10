@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm passionate about software development and tech
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/denizcca/)
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:denizcanaltun0@gmail.com)
 
-\n
 ## About Me
 
 I'm a software enthusiast with a strong foundation in web development, frontend programming, and more. My main areas of focus include:
