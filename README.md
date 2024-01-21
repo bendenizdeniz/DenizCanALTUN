@@ -9,20 +9,21 @@ Welcome to my GitHub profile! I'm passionate about software development and tech
 
 I'm a software enthusiast with a strong foundation in web development, frontend programming, and more. My main areas of focus include:
 
-<img alt=".Net Core/MVC" src="https://img.shields.io/badge/.NET%20Core/MVC-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white"/>
-<img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img alt="Hangfire" src="https://img.shields.io/badge/Hangfire-%23222222.svg?style=for-the-badge&logo=hangfire&logoColor=white"/>
-<img alt="Redis" src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-<img alt="MassTransit" src="https://img.shields.io/badge/MassTransit-%231E1E1E.svg?style=for-the-badge&logo=masstransit&logoColor=white"/>
-<img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-<img alt="SignalR" src="https://img.shields.io/badge/SignalR-%23803440.svg?style=for-the-badge&logo=signalr&logoColor=white"/>
-<img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%2320232a"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%2320232a"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img alt="Redux" src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-<img alt="Jotai" src="https://img.shields.io/badge/Jotai-%238B9CA9.svg?style=for-the-badge&logo=jotai&logoColor=white"/>
+[<img alt=".Net Core/MVC" src="https://img.shields.io/badge/.NET%20Core/MVC-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white"/>](#)
+[<img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>](#)
+[<img alt="Hangfire" src="https://img.shields.io/badge/Hangfire-%23222222.svg?style=for-the-badge&logo=hangfire&logoColor=white"/>](#)
+[<img alt="Redis" src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"/>](#)
+[<img alt="MassTransit" src="https://img.shields.io/badge/MassTransit-%231E1E1E.svg?style=for-the-badge&logo=masstransit&logoColor=white"/>](#)
+[<img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white"/>](#)
+[<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>](#)
+[<img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>](#)
+[<img alt="SignalR" src="https://img.shields.io/badge/SignalR-%23803440.svg?style=for-the-badge&logo=signalr&logoColor=white"/>](#)
+[<img alt="ReactJS" src="https://img.shields.io/badge/ReactJS-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%2320232a"/>](#)
+[<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%2320232a"/>](#)
+[<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>](#)
+[<img alt="Redux" src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>](#)
+[<img alt="Jotai" src="https://img.shields.io/badge/Jotai-%238B9CA9.svg?style=for-the-badge&logo=jotai&logoColor=white"/>](#)
+
 
 ### .Net Core/MVC
 
