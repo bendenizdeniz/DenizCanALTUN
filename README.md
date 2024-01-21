@@ -28,16 +28,16 @@ I'm a software enthusiast with a strong foundation in web development, frontend 
 
 .NET provides a powerful framework for building various types of applications, from web to desktop and beyond. I've worked with .NET to create efficient and reliable solutions that meet real-world business needs.
 
-PostgreSQL
+### PostgreSQL
 I have extensive experience with PostgreSQL, a powerful open-source relational database management system. Leveraging its robust features and scalability, I have integrated PostgreSQL seamlessly into .NET Core/MVC applications to ensure efficient data storage and retrieval.
 
-Hangfire
+### Hangfire
 Employing Hangfire, a .NET library for background tasks and scheduling, I have enhanced applications with reliable and distributed background processing capabilities. This has allowed for improved task management and increased system responsiveness.
 
-Redis
+### Redis
 With Redis, an in-memory data structure store, I've optimized performance by caching frequently accessed data. This key-value store has proven instrumental in speeding up data retrieval processes within .NET Core/MVC applications.
 
-MassTransit/RabbitMQ
+### MassTransit/RabbitMQ
 MassTransit has been a valuable tool for building distributed systems and event-driven architectures. I have utilized MassTransit to enable seamless communication between microservices, ensuring scalability and maintainability in .NET Core/MVC applications.
 
 ### JavaScript (JS)
