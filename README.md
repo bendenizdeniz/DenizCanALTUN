@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about software development and tech
 
 ### About Me
 
-I'm a software enthusiast with a strong foundation in web development, frontend programming, and more. My main areas of focus include:
+I'm a software enthusiast with a strong foundation in web development, backend programming, and more. My main areas of focus include:
 
 [<img alt=".Net Core/MVC" src="https://img.shields.io/badge/.NET%20Core/MVC-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white"/>](#)
 [<img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>](#)
